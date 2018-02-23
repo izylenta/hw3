@@ -1,7 +1,8 @@
 # hw3
 
-https://goo.gl/forms/PM7OmQxrIUQecesj2
-https://docs.google.com/spreadsheets/d/1ctSB5E_OUXW3JZp2eEziiLLKj3M0cDDaH8ZMTWQcnoo/edit?usp=sharing
+ссылка на опрос --> [meme life](https://goo.gl/forms/PM7OmQxrIUQecesj2)
+
+ссылка на ответы --> [responses](https://docs.google.com/spreadsheets/d/1ctSB5E_OUXW3JZp2eEziiLLKj3M0cDDaH8ZMTWQcnoo/edit?usp=sharing)
 
 Опрос был направлен на проверку того, как меняется отношение человека к выполнению задания, если тема звучит легкомысленно.
 
